@@ -13,7 +13,7 @@ There are three major providers of energy in town that charge different amounts 
 
 JOI Energy is a new startup in the energy industry.
 Rather than selling energy they want to differentiate themselves from the market by recording their customers' energy usage from their smart meters and
-recommending the best suppler to meet their needs.
+recommending the best supplier to meet their needs.
 
 You have been placed into their development team, whose current goal is to produce an API which their customers and smart meters will interact with.
 
